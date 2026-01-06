@@ -1,7 +1,3 @@
-Here is a **minimal, clean README** you can add (professional and test-friendly):
-
----
-
 ## Phonetic Service Center – CLI Simulation
 
 ### Requirements
